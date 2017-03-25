@@ -1,0 +1,106 @@
+body{
+		background-image: url("../images/wallpaper.jpg");
+}
+
+h1 {
+
+		font-family: 'Amatic SC', cursive;
+		font-size: 180px;
+		margin-right: 0px;
+
+}
+
+h2 {
+		font-family: 'Amatic SC', cursive;
+		font-size: 55px;
+		margin-top: 10px;
+		margin-left: 20px;
+		line-height: 48px;
+}
+
+h3 {
+		font-family: 'Josefin Slab', serif;
+		margin-left: 20px;
+		font-size: 65px;
+
+}
+
+h1, h2, h3{
+		color: white;
+		text-shadow: 1px 1px yellow;
+}
+
+
+h4 {
+	font-family: 'Josefin Slab', serif;
+	color: white;
+	font-size: 30px;
+}
+
+h5 {
+	font-family: 'Josefin Slab', serif;
+	color: white;
+	font-size: 23px;
+
+}
+
+p.timer {
+		font-family: 'Amatic SC', cursive;
+		color: white;
+		font-size: 40px;
+}
+#right, #wrong {
+		font-family: 'Amatic SC', cursive;
+		color: white;
+		font-size: 40px;
+}
+
+.result {
+		font-family: 'Amatic SC', cursive;
+		color: white;
+		font-size: 55px;
+}
+
+.pageTitle{
+		margin-right: -15px;
+}
+
+.subTitle {
+		margin-top: 50px;
+}
+
+#textContent {
+		background: linear-gradient(90deg, rgba(128,0,0,0.05), rgba(128,0,0,0.6) 10%, rgba(128,0,0,0.6) 85%, rgba(20,0,0,0.4));
+		/*background: linear-gradient(180deg, rgba(128,0,0,0.05), rgba(128,0,0,0.6) 10%, rgba(128,0,0,0.6) 85%, rgba(20,0,0,0.4));*/
+		height: 374px;
+}
+
+img.imageBox {
+		width: 300px;
+}
+
+button{
+		font-family: 'Amatic SC', cursive;
+		font-size: 35px;
+}
+
+.btn-start{
+		background: none;
+		border: 2px solid white;
+		padding: 12px 22px ;
+		border-color: white;
+		color: white;
+		font-size: 45px;
+
+}
+
+.btn-start:hover, 
+.btn-start:active,
+.btn-start:focus,
+.btn-start:visited	{
+
+		color: maroon;
+		background-color: white;
+		border-color: maroon;
+
+}
